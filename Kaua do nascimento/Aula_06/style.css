@@ -1,0 +1,18 @@
+*{
+  font-family:tahoma;
+  font-size:1em;
+  text-align:center;
+  text-transform:uppercase; 
+  text-decoration: underline;
+  color:rgb(000,153,153);
+  font-weight:800;
+}
+
+.caixas {
+  float:left;width:10%;
+  height:200px;
+  margin:1% 0.5%;
+  border:solid 1px #ccc;
+  background-color:rgba(111,111,100,0.1);
+
+}
