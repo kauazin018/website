@@ -10,9 +10,21 @@
 }
 
 .espaco_lados{
-    padding: 0px 2vw 2vw 2vw;
-    
+    padding: 0px 2vw 2vw 2vw;    
 }
 .imagemcapa{
     max-width: 100%
+}
+
+.bordaprincipal{
+    background-color: rgba(12, 233, 233, 0.835); 
+}
+
+.botao{
+    background-color: antiquewhite;
+    border: 2px solid black;
+    padding: 4px;
+}
+nav{
+    text-align: center;
 }
